@@ -2,7 +2,7 @@
 
 - 👀 I love writing code and bringing pages to life on the internet
 - 🌱 I’m currently learning Next.js and Typescript
-- I have a blog about [match puzzles](https://spichca.ru) and with [poetry](https://prostovix.info)
+- I have a blog about [match puzzles](https://smarter.in.ua/) and with [poetry](https://prostovix.info)
 
 ### Connect with me:
 
